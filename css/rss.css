@@ -1,0 +1,40 @@
+/*
+ * Used to display RSS feeds
+ * 
+ */
+
+.rss {
+	font-family: Tahoma, Verdana, Sans-serif;
+	font-size: 11px;
+}
+
+table.rss {
+	background-color: #f9f9f9;
+	color: black;
+	border: 1px solid #ccc;
+	width: 100%;
+}
+
+th.rss {
+	font-weight: bold;
+	border-bottom: 3px solid red;
+}
+
+td.rss {
+	;
+}
+
+a.rss, a.rss:visited {
+	color: orange;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.rss:hover {
+	color: red;
+}
+
+div.rss {
+	background-color: transparent;
+	color: #332211;
+}
